@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/albaraa-mo/react/static/css/main.b19c0d8b.chunk.css",
+    "main.js": "/albaraa-mo/react/static/js/main.cfe75103.chunk.js",
+    "main.js.map": "/albaraa-mo/react/static/js/main.cfe75103.chunk.js.map",
+    "runtime-main.js": "/albaraa-mo/react/static/js/runtime-main.942b27d0.js",
+    "runtime-main.js.map": "/albaraa-mo/react/static/js/runtime-main.942b27d0.js.map",
+    "static/css/2.de1510d8.chunk.css": "/albaraa-mo/react/static/css/2.de1510d8.chunk.css",
+    "static/js/2.66183863.chunk.js": "/albaraa-mo/react/static/js/2.66183863.chunk.js",
+    "static/js/2.66183863.chunk.js.map": "/albaraa-mo/react/static/js/2.66183863.chunk.js.map",
+    "index.html": "/albaraa-mo/react/index.html",
+    "static/css/2.de1510d8.chunk.css.map": "/albaraa-mo/react/static/css/2.de1510d8.chunk.css.map",
+    "static/css/main.b19c0d8b.chunk.css.map": "/albaraa-mo/react/static/css/main.b19c0d8b.chunk.css.map",
+    "static/js/2.66183863.chunk.js.LICENSE.txt": "/albaraa-mo/react/static/js/2.66183863.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/albaraa-mo/react/static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.942b27d0.js",
+    "static/css/2.de1510d8.chunk.css",
+    "static/js/2.66183863.chunk.js",
+    "static/css/main.b19c0d8b.chunk.css",
+    "static/js/main.cfe75103.chunk.js"
+  ]
+}
